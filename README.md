@@ -58,17 +58,6 @@ This design makes LightGCN simpler, easier to train, and often more effective fo
 
 ---
 
-## 🗂️ Project Structure
-```text
-.
-├── NGCF.ipynb
-├── NGCF-dataset_software.ipynb
-├── LightGCN.ipynb
-├── LightGCN-dataset_software.ipynb
-├── NGCF.py
-├── main.py
-└── ../requirements.txt
-```
 
 ### Notebook Roles
 - **NGCF.ipynb**: Train/evaluate NGCF on `amazon-book`
